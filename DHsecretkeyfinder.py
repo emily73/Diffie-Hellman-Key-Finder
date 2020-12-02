@@ -10,3 +10,5 @@ def Input_Numbers():
   print("Alice's public key is: ",pub_a)
   print("Bob's public key is: ", pub_b)
   print("The Secret Key is: ",k)
+
+InputNumbers()
